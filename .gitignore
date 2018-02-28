@@ -1,0 +1,9 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+#folders
+node_modules
+coverage
+.nyc_output
+
+#files
+package-lock.json

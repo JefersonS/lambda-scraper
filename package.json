@@ -1,0 +1,15 @@
+{
+  "name": "scrapper2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.203.0",
+    "puppeteer": "^1.1.1"
+  }
+}
